@@ -4,4 +4,5 @@
 
 ## Daily
 
+- [2026-10-31](https://djma.github.io/security-watch/daily/2026-10-31.md): Binance hack refund phishing; tampered Trezors from CryptoBilis; public exploits for an Apple kernel bug and Linux CVE-2026-98432.
 - [2026-10-30](https://djma.github.io/security-watch/daily/2026-10-30.md): Fake Claude Code VS Code extension backdoor; Chrome 156 and Apple 27.2 updates; crypto wallet scams.
