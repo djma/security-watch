@@ -4,6 +4,7 @@
 
 ## Daily
 
+- [2026-11-02](https://djma.github.io/security-watch/daily/2026-11-02.md): BTCPay Server hot wallets being drained (shut down now); LXD CVSS 10 auth bypass with PoC; kernel TCP bug still unpatched in distros; prop-firm giveaway phishing.
 - [2026-11-01](https://djma.github.io/security-watch/daily/2026-11-01.md): Public PoC for the ClickHouse RCE; exploited Brotli bug hits Bun; pgAdmin 4 RCE; Google-alert phishing and DeFi DNS-hijack drainers.
 - [2026-10-31](https://djma.github.io/security-watch/daily/2026-10-31.md): Binance hack refund phishing; tampered Trezors from CryptoBilis; public exploits for an Apple kernel bug and Linux CVE-2026-98432.
 - [2026-10-30](https://djma.github.io/security-watch/daily/2026-10-30.md): Fake Claude Code VS Code extension backdoor; Chrome 156 and Apple 27.2 updates; crypto wallet scams.
