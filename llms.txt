@@ -4,6 +4,7 @@
 
 ## Daily
 
+- [2026-11-09](https://djma.github.io/security-watch/daily/2026-11-09.md): LNbits tells all operators to shut down after fund-draining attacks; OpenSSH *sshole mass scanning; rustls ECH leak and Hickory DNS DoS fixes; Contact Form 7 upload RCE; imgproxy ICO overflow.
 - [2026-11-08](https://djma.github.io/security-watch/daily/2026-11-08.md): Keplr Google/Apple-login wallets drained via Web3Auth flaw; DarkSword iOS kit targets wallets on iOS 18.4–18.7; OpenSSH *sshole used for malware; Craft CMS SQLi PoC; JupyterLab Desktop RCE fix; Anthropic customer-data notice.
 - [2026-11-07](https://djma.github.io/security-watch/daily/2026-11-07.md): OpenSSH *sshole confirmed exploited (Alpine root); Babelfish/Postgres TDS RCE; actix-web + SurrealDB Rust fixes; Windows Paint Store patch; Gnosis Pay breach.
 - [2026-11-06](https://djma.github.io/security-watch/daily/2026-11-06.md): OpenSSH *sshole on Alpine/musl (10.6p2); APT package-swap RCE on Debian/Ubuntu; Apple PAC bug on KEV; Node.js HIGH patches Nov 11; Wasmtime/Key Vault Rust fixes.
