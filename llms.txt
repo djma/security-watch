@@ -4,6 +4,7 @@
 
 ## Daily
 
+- [2026-11-13](https://djma.github.io/security-watch/daily/2026-11-13.md): PostgreSQL 18.7/17.12/16.16/15.20/14.25 fix 52 security bugs (last 14 release); wfx-loot hijacked GitHub accounts steal CI secrets; AI-agent campaign hits MEV-bot servers via open ClickHouse/Redis; Git 2.56.1 recursive-clone RCE; Apache httpd 2.4.71 HTTP/2 RCE; Chrome 157.0.8103.78; Trezor implant update.
 - [2026-11-12](https://djma.github.io/security-watch/daily/2026-11-12.md): Node.js 22.23.5/24.22.3/26.13.1 fix HTTPS key-leak and HTTP/2 bugs; malicious crate lwd-uri-util stole SSH/AWS keys; OpenSSH *sshole KEV deadline today (scanners may miss Alpine); cap-std sandbox escape; more Hickory DNS fixes; Telegram Android widget RCE fixed.
 - [2026-11-11](https://djma.github.io/security-watch/daily/2026-11-11.md): Exploited Chrome zero-day (157.0.8103.50) and Outlook bug on KEV; PostgreSQL security releases due Nov 12; React Server Components critical RCE; Node.js patches today; nine malicious crates pulled; MongoDB fixes; Across Protocol domain hijack.
 - [2026-11-10](https://djma.github.io/security-watch/daily/2026-11-10.md): OpenSSH *sshole added to CISA KEV; hijacked bee-js npm package ships wallet stealer; Brotli KEV deadline today; rustls, rmcp and aws-lc-sys Rust fixes; Apple iOS 27.2.1/26.7.3/18.7.12 and macOS updates; LNbits still awaiting patches; Ankr bridge drain.
