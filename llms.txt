@@ -4,6 +4,7 @@
 
 ## Daily
 
+- [2026-11-17](https://djma.github.io/security-watch/daily/2026-11-17.md): Optimizely scripts on 178 major sites swapped crypto addresses and skimmed cards; ~$15.5M Lighter drain via leaked API key; hijacked WPPConnect npm releases; PostgreSQL CVE-2026-116331 PoC; Trezor shipping-partner leak fuels scam calls; Firefox 160.
 - [2026-11-16](https://djma.github.io/security-watch/daily/2026-11-16.md): Fake Claude Code npm package (@claudecode/cli) is malware; trader's desktop hijacked and Hyperliquid positions drained; Coinone support-chat leak fuels phishing; Luxor Commander miner hijack; fake Google Meet update malware; Tor 0.4.9.17.
 - [2026-11-15](https://djma.github.io/security-watch/daily/2026-11-15.md): Proxima trading wallets drained via keys in SigNoz logs; fake Gate.io SDKs on PyPI; Dokploy root RCE (0.31.1); quinn/libp2p Rust fixes; unpatched SignDrop Windows SYSTEM exploit; MANTRA/Keplr key-leak drains; Kava Lend exploit.
 - [2026-11-14](https://djma.github.io/security-watch/daily/2026-11-14.md): Public exploit write-up for PostgreSQL CVE-2026-6460 (upgrade and rebuild C extensions); Plex exploited-bug scanner templates; russh 0.65.1; FrankenPHP 1.13.2; Expedia/Qubole breach; SilentAir SMS-2FA interception in Asia; Trust Wallet TRON drains on iPhone.
