@@ -4,6 +4,7 @@
 
 ## Daily
 
+- [2026-11-22](https://djma.github.io/security-watch/daily/2026-11-22.md): Critical GPGME double free from malicious OpenPGP keys (2.3.1); Upload2Shell Ghostscript upload/print RCE write-up (10.08.0); OpenRouter prompts to MiniMax read by third parties; Rclone sftp auth bypass; malicious npm mcp-doctor; Chainflip $4.86M and Cyber bridge drains; Bitcoin Core 30.5/31.3/32.1.
 - [2026-11-21](https://djma.github.io/security-watch/daily/2026-11-21.md): pam-mysql lets anyone SSH in with any password to NULL-password accounts; public exploit code for PHP phpAfterShell; AI providers caught leaking secrets from prompts; ClickHouse hardening builds; pip eMudhra cert CVE; Wagyu XMR1 deployer-key theft ($13.3M); tampered Ledgers confirmed in Berlin.
 - [2026-11-20](https://djma.github.io/security-watch/daily/2026-11-20.md): PHP security releases fix critical session/RCE bugs, one with a public exploit (8.2.36/8.3.37/8.4.28/8.5.13); low-privilege logins reach code execution in ClickHouse (unpatched), PostgreSQL and MySQL; Bun 1.4.5, Valkey and Ruby security releases; LiteLLM on KEV; unpatched Windows 11 FastUnlock lock-screen bypass; LUKSO email-recovery drain.
 - [2026-11-19](https://djma.github.io/security-watch/daily/2026-11-19.md): NGINX2Root, five critical nginx RCE bugs with a public PoC (1.31.9/1.30.7); Apache httpd HTTP/2 bug now reported exploited; Microsoft agent-framework PyPI 1.26.1/1.26.2 steal credentials; AdminNeo 5.9.1; Synology DSM RCE on KEV; tampered Ledgers in Dubai.
